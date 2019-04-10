@@ -1,0 +1,73 @@
+
+
+https://drive.google.com/folderview?id=1aTRpfd2c7uOxJ15bKFPod6M1tVb78TA3
+
+
+
+
+
+
+
+
+
+	p01
+		ind_adm.zip
+		ind_rrd.zip
+	p02
+		A	
+			gl_gpwv3_pdens_00_ascii_one
+			gl_gpwv3_pdens_90_ascii_one
+		C	
+			Brazil
+				FAS_Brazil1.2013363.aqua.ndvi.2km
+				...
+				FAS_Brazil7.2013363.aqua.ndvi.2km
+			india
+				ind_adm
+				india1.png ....
+	p03
+		C
+			sample.xls
+			
+	p04
+		A
+			ne_10m_populated_places_simple
+		B
+			GMTED2010N10E060_300.zip -> tiff
+	p05
+		A
+			miniscgb
+			ne_10m_admin_0_countries
+	p06
+		A
+			maharashtra map.tiff
+			indiamap.tiff
+			ind_adm....
+		B
+			key monuments india # statue of unity etc
+		C
+			christchurchtopo50
+	p07
+		A 
+			tl_2013_06_tract
+		B
+			OEM_NursingHomes_001
+			nybb_12c
+		C
+			ne_10m_populated_places_simple
+			ne_10m_admin_0_countries
+			earthquakedatabase
+		D
+			ne_10m_rivers_lake_centerlines
+			ne_10m_populated_places_simple
+	p08
+		A
+			ne_10m_populated_places_simple
+			earthquakedatabase
+			ca tracts
+		B
+			tl 2013 us county..
+		C
+			interpolating point data
+			shapefiles
+	p09
